@@ -3,7 +3,7 @@
 Software Engineer with focus in backend, Technical Lecturer, Community Leader, Open Source Enthusiast and Bachelor of Science in Computing Engineering from the Federal University of Paraíba (UFPB), Brazil. Has experience in the following areas in computing: Web system development, software development, architecture software and mobile. He is currently a Software Engineer at Xp inc. 
 
 ## :triangular_flag_on_post: Technical skills
-- Programming languages: C# <3 and Python
+- Programming languages: C# <3, Python  and Typescript
 - Cloud Computing: Docker, AWS, Heroku e Azure
 - Database / Data structure store: Mysql, SQL Server, PostgreSQL, MongoDB, AWS(S3, SQS, Kinesis Firehouse) and Redis
 - Computational techniques: Clean Code, Solid, Unit test, Microservices and DDD
