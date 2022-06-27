@@ -1,38 +1,19 @@
 ### Hi there 👋, I'm Abraão Honório! Let me present a little about myself
 
-Software Engineer with focus in backend, Technical Lecturer, Community Leader, Open Source Enthusiast and Bachelor of Science in Computing Engineering from the Federal University of Paraíba (UFPB), Brazil. Has experience in the following areas in computing: Web system development, software development, architecture software and mobile. He is currently a Software Engineer at Xp inc. 
+Software Engineer with focus in backend, Technical Lecturer, Community Leader, Open Source Enthusiast and Bachelor of Science in Computing Engineering from the Federal University of Paraíba (UFPB), Brazil. Has experience in the following areas in computing: Web system development, software development, architecture software and mobile. He is currently a Senior Software Engineer at Mercê do Bairro. 
 
 ## :triangular_flag_on_post: Technical skills
-- Programming languages: C# <3, Python  and Typescript
-- Cloud Computing: Docker, AWS, Heroku e Azure
-- Database / Data structure store: Mysql, SQL Server, PostgreSQL, MongoDB, AWS(S3, SQS, Kinesis Firehouse) and Redis
+
+
+- Programming languages: C#, Python  and Typescript
+- DevOps / Cloud Computing expertise: Docker, AWS, Heroku e Azure
+- Database / Data structure store: Mysql, SQL Server, PostgreSQL, MongoDB, Azure(service bus, blob), AWS(S3, SQS, Kinesis Firehouse), RabbitMQ, Kafka, CosmoDB, and Redis
 - Computational techniques: Clean Code, Solid, Unit test, Microservices and DDD
+- Foundation knowledge: - Algorithms - Data structures - OOP - SOLID principles - Design patterns - Agile methodologies - Debugging
 
 ## 💬 For know more about me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraaohonorio/)](https://www.linkedin.com/in/abraaohonorio/)
 
-![Abraao's github stats](https://github-readme-stats.vercel.app/api?username=AbraaoHonorio&count_private=true&show_icons=true&theme=algolia)
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AbraaoHonorio/count.svg" />
-</p>
-
 
 - Thanks for visiting, God bless you a lot. 
-
-<!--
-**AbraaoHonorio/AbraaoHonorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
