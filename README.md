@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Abraão Honório! Let me present a little about myself
 
-Software Engineer with focus in backend, Technical Lecturer, Community Leader, Open Source Enthusiast and Bachelor of Science in Computing Engineering from the Federal University of Paraíba (UFPB), Brazil. Has experience in the following areas in computing: Web system development, software development, architecture software and mobile. He is currently a Senior Software Engineer at Mercê do Bairro. 
+Software Engineer with a focus on the backend, Technical Lecturer, Community Leader, Open Source Enthusiast, and Bachelor of Science in Computing Engineering from the Federal University of Paraíba (UFPB), Brazil. Has experience in the following areas of computing: Web system development, software development, architecture software, and mobile. He is currently a Senior Software Engineer at Mercê do Bairro.
 
 ## :triangular_flag_on_post: Technical skills
 
