@@ -5,7 +5,7 @@ Software Engineer with a focus on the backend, Technical Lecturer, Community Lea
 ## :triangular_flag_on_post: Technical skills
 
 - Programming languages: C#, Python and Typescript
-- Front end: - React - Angular - Ionic - Javascript and Typescript - CSS - HTML
+- Front end: React, Angular, Ionic
 - DevOps and Cloud Computing expertise: Docker, AWS, Heroku, Azure and CI/CD
 - Database / Data structure store: SQL Server, PostgreSQL, MongoDB, Azure(service bus, blob), AWS(S3, SQS, Kinesis Firehouse), RabbitMQ, Kafka and Redis
 - Computational techniques: Clean Code, Solid, Unit test, Microservices and DDD
