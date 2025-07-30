@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Abraão Honório! Let me present a little about myself
 
 Software Engineer with a focus on the backend, Technical Lecturer, Community Leader, Open Source Enthusiast, and Bachelor of Science in Computing Engineering from the Federal University of Paraíba (UFPB), Brazil. Has experience in the following areas of computing: Web system development, software development, cloud computing, architecture software, microservices architecture pattern, and mobile.
-I am currently a software engineer at [QuorumUS](https://github.com/QuorumUS).
+I am currently a Software Engineering Manager at [QuorumUS](https://github.com/QuorumUS).
 
 ## :triangular_flag_on_post: Technical skills
 
@@ -12,7 +12,7 @@ I am currently a software engineer at [QuorumUS](https://github.com/QuorumUS).
 - Computational techniques: Clean Code, Solid, Unit test, Microservices and DDD
 - Foundation knowledge: Data structures, Algorithms, Analysis of Algorithms, OOP, SOLID principles, Design patterns, DDD, Debugging and Agile methodologies 
 
-## 💬 For know more about me:
+## 💬 For more information about me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraaohonorio/)](https://www.linkedin.com/in/abraaohonorio/)
 
