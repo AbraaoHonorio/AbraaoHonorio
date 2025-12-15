@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Abraão Honório! Let me present a little about myself
 
 Software Engineer with a focus on the backend, Technical Lecturer, Community Leader, Open Source Enthusiast, and Bachelor of Science in Computing Engineering from the Federal University of Paraíba (UFPB), Brazil. Has experience in the following areas of computing: Web system development, software development, cloud computing, architecture software, microservices architecture pattern, and mobile.
-I am currently a Software Engineering Manager at [QuorumUS](https://github.com/QuorumUS).
+I am currently a TML at [QuintoAndar](https://github.com/quintoandar).
 
 ## :triangular_flag_on_post: Technical skills
 
 - Programming languages: C#, Python and Typescript
 - Front end: React and Angular
-- DevOps and Cloud Computing expertise: Docker, AWS, Heroku, Azure and CI/CD
+- DevOps and Cloud Computing expertise: Docker, AWS, ArgoCD, and  Jenkins
 - Database / Data structure store: SQL Server, PostgreSQL, MongoDB, Azure(service bus, blob), AWS(S3, SQS, Kinesis Firehouse), RabbitMQ, Kafka and Redis
 - Computational techniques: Clean Code, Solid, Unit test, Microservices and DDD
 - Foundation knowledge: Data structures, Algorithms, Analysis of Algorithms, OOP, SOLID principles, Design patterns, DDD, Debugging and Agile methodologies 
